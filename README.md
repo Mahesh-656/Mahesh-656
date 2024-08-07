@@ -14,6 +14,8 @@ Tools: VSCode, Eclipse, Git.
 
 Interests: Expanding my skills to Full-Stack Development.
 
+Languages: Kannada,Tamil,Telugu,English
+
 📫 Contact Me
 
 Email:   mahigowda416@gmail.com ✉️
