@@ -14,4 +14,4 @@ LinkedIn: Theja Ashwin 🔗
 Portfolio: My Portfolio 🌍
 
 
-                                     Thank you for visiting my profile! 😊
+                                                         Thank you for visiting my profile! 😊
