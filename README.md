@@ -19,4 +19,4 @@ LinkedIn: [Maheshwar](https://www.linkedin.com/in/maheshwar-r-97754622b/)🔗
 Portfolio: My Portfolio 🌍
 
 
-                                                       Thank you for visiting my profile! 😊
+                                                  Thank you for visiting my profile! 😊
