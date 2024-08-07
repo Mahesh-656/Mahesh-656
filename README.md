@@ -13,7 +13,7 @@ Interests: Expanding my skills to Full-Stack Development.
 
 📫 Contact Me
 
-Email: mahigowda416@gmail.com ✉️
+Email:   mahigowda416@gmail.com ✉️
 
 LinkedIn: [Maheshwar](https://www.linkedin.com/in/maheshwar-r-97754622b/)🔗
 
