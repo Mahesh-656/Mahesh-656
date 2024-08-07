@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Maheshwar R 👋
+About Me
+I'm a passionate Backend Developer with expertise in designing and implementing scalable, efficient, and reliable backend systems. With a strong foundation in Java, SQL, and MongoDB, I thrive on solving complex problems and creating robust backend solutions.
 
-<!--
-**Mahesh-656/Mahesh-656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
+Backend Development: Building scalable and efficient backend systems.
+Languages & Technologies: Java, SQL, MongoDB.
+Tools: VSCode, Eclipse, Git.
+Interests: Expanding my skills to Full-Stack Development.
 
-Here are some ideas to get you started:
+📫 Contact Me
+Email: mahigowda416@gmail.com ✉️
+LinkedIn: Theja Ashwin 🔗
+Portfolio: My Portfolio 🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+                                                                     Thank you for visiting my profile! 😊
