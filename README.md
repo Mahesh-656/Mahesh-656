@@ -7,8 +7,11 @@ I'm a passionate Backend Developer with expertise in designing and implementing 
 🛠️ Skills
 
 Backend Development: Building scalable and efficient backend systems.
+
 Languages & Technologies: Java, SQL, MongoDB.
+
 Tools: VSCode, Eclipse, Git.
+
 Interests: Expanding my skills to Full-Stack Development.
 
 📫 Contact Me
