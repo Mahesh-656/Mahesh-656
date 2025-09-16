@@ -8,7 +8,7 @@ I'm a passionate Backend Developer with expertise in designing and implementing 
 
 Backend Development: Building scalable and efficient backend systems.
 
-Languages & Technologies: HTML, CSS, JS, Java, MySQL, Spring Core, Spring-Boot, Spring JPA.
+Languages & Technologies: HTML, CSS, JS, Java, MySQL, Spring Core, Spring-Boot, Spring JPA, Lambda Expressions, Streams.
 
 Tools: VSCode, Eclipse, Git.
 
@@ -22,7 +22,7 @@ Email:   mahigowda416@gmail.com ✉️
 
 LinkedIn: [Maheshwar](https://www.linkedin.com/in/maheshwar-r-97754622b/)🔗
 
-Portfolio: My Portfolio 🌍
+Portfolio: [My Portfolio 🌍](maheshwarrofficial.me)
 
 
                                               Thank you for visiting my profile! 😊
