@@ -12,10 +12,6 @@ Languages & Technologies: HTML, CSS, JS, Java, MySQL, Spring Core, Spring-Boot, 
 
 Tools: VSCode, Eclipse, Git.
 
-Interests: Expanding my skills to Full-Stack Development.
-
-Languages: Kannada, Tamil, Telugu, English
-
 📫 Contact Me
 
 Email:   maheshwarr2003@gmail.com ✉️
