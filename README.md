@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh-656" alt="mahesh-656" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
-
 - 👨‍💻 All of my projects are available at [https://www.maheshwarofficial.me/](https://www.maheshwarofficial.me/)
 
 - 💬 Ask me about **I'm a passionate Backend Developer with expertise in designing and implementing scalable, efficient, and reliable backend systems. With a strong foundation in Java, Spring Core, Spring Boot, Spring Data JPA, and SQL, I excel at solving complex problems and developing robust backend solutions.**
